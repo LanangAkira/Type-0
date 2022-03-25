@@ -1,0 +1,4 @@
+https://humas.bekasikab.go.id/kcfinder/upload.php
+https://gis.filkom.ub.ac.id/kcfinder/upload.php
+https://koranbernas.id/asset/kcfinder/upload.php
+https://v2.rsuppersahabatan.co.id/application/themes/admin/assets/js/kcfinder/upload.php
